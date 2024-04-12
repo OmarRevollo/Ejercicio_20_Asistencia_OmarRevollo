@@ -19,7 +19,7 @@ void draw() {
 void dibujarRec() {
   for (float x = coordenadas.x; x < width; x += (anchoRec + distRec)) {
     for (float y = coordenadas.y; y < height; y += (altoRec + distRec)) {
-      rect(x, y, anchoRec, altoRec);
+      
     }
   }
 }
