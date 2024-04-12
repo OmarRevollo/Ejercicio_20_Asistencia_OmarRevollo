@@ -11,7 +11,7 @@ void setup() {
 
 void draw() {
   background(#B7950B); // Cambio el fondo
-  fill(#FFFF00); // Cambio el color 
+  fill(#FFFF00); // Cambio de color de las ventanas
   stroke(#FCF32E);
   dibujarRec();
 }
